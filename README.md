@@ -81,7 +81,7 @@ Additional engineered features:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/insurance-premium-api.git
+https://github.com/mahadev19/Insurance-primium-FastAPI-small-project.git
 cd insurance-premium-api
 ```
 
@@ -252,10 +252,15 @@ The UI collects user input and sends requests to the FastAPI backend.
 
 # 👨‍💻 Author
 
-Mahadev P
+## 📬 Contact
 
-BTech CSE | Aspiring Data Scientist
+Contact : gmail:- pandmahadev120@gmail.com
 
+linkedin :- https://www.linkedin.com/in/mahadev-data-scientist/
+
+twitter : - https://x.com/Mahadev_Py
+
+link- https://www.mahadev.me/
 ---
 
 # ⭐ If you like this project
